@@ -1,9 +1,0 @@
-a, a:hover{
-    color: #0c8eb4;
-}
-
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default:hover{
-color:#0c8eb4 !important;
-}
